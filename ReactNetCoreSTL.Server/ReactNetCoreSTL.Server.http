@@ -1,0 +1,6 @@
+@ReactNetCoreSTL.Server_HostAddress = http://localhost:5139
+
+GET {{ReactNetCoreSTL.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
